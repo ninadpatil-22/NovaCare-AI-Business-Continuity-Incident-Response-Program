@@ -1,21 +1,28 @@
-# NovaCare AI — Integrated Resilience Program
+# Business Continuity & Incident Response Program | NovaCare AI
 
-A complete GRC portfolio project simulating a full organizational 
-resilience program for a fictional healthtech SaaS company processing 
-PHI and cardholder data.
+A GRC portfolio project simulating a complete business continuity and 
+disaster recovery program for a fictional healthtech SaaS company 
+processing PHI and cardholder data.
+
+## Summary
+Built a business continuity and disaster recovery program covering 7 
+critical business processes with defined RTOs, RPOs, MTPDs, and impact 
+assessments aligned to ISO 22301 and NIST SP 800-34. Developed a 
+ransomware incident response playbook aligned to NIST SP 800-61, HIPAA 
+breach notification requirements, PCI DSS, and ISO 27001 controls. 
+Designed and facilitated a ransomware tabletop exercise with structured 
+injects, response actions, and control validation activities. Produced 
+integrated resilience documentation spanning crisis management, 
+disaster recovery, business continuity, and post-incident review 
+processes.
 
 ## Company Profile
 NovaCare AI — 320-employee healthtech SaaS startup based in Austin, TX. 
 Processes PHI (HIPAA), cardholder data (PCI DSS), and PII (GDPR/CCPA). 
 Infrastructure hosted on AWS (us-east-1 primary, us-west-2 DR).
 
-## Scenario
-A ransomware attack encrypts production systems and exfiltrates patient 
-data, testing the organization's full resilience program — from impact 
-analysis through crisis response, recovery, and lessons learned.
-
 ## Frameworks Applied
-ISO 22301:2019 | NIST CSF | ISO 27001:2022 | HIPAA | PCI DSS v4.0
+ISO 22301:2019 | NIST SP 800-34 | NIST SP 800-61 | ISO 27001:2022 | HIPAA | PCI DSS v4.0
 
 ## Deliverables
 
